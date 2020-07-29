@@ -1,8 +1,8 @@
 def oxford_comma(array)
 array.each |fruit|
 fruit << ", "
-
-
+fruit
+  end
 end
 
 
